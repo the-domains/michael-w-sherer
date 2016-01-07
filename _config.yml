@@ -1,0 +1,28 @@
+name: Michael W. Sherer
+favicon: null
+layout_spectrum: 0.1439723507501185
+typography_spectrum: 0.8837465983815491
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6812000633217394
+  lightness: 0.7796496457885951
+  saturation: 0.6946758104022592
+  rhythmicContrast: 0.9520914510358125
+purpose: []
